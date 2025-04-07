@@ -1,0 +1,3 @@
+2025-04-07 16:33:10,797 - INFO - Logged in to Salesforce
+2025-04-07 16:35:45,065 - ERROR - Error logging in to Salesforce: Salesforce.__init__() got an unexpected keyword argument 'sf_domain'
+2025-04-07 16:36:40,719 - INFO - Logged in to Salesforce
